@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) throws InterruptedException {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
-      for (int i= 0;i<10;i++){
+      for (int i= 0;i<15;i++){
           System.out.println("Hello World ");
           Thread.sleep(2000);
       }
